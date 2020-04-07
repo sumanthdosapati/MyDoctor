@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>38885551db001010fec729e1ca96193e</logo>
+        <menu/>
+        <name>My Doctor</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_454737_my_doctor</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>A hands on app to our all health needs</short_description>
+        <source>x_454737_my_doctor</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 10:48:42</sys_created_on>
+        <sys_id>18881115db001010fec729e1ca961988</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 10:48:46</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>doctor logo.png</file_name>
+        <hash>75eea1c76fb74a23d787c196978f0741ec8d27b7c2e3eaf19ac1be591e410a53</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3827</size_bytes>
+        <size_compressed>3850</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 10:48:45</sys_created_on>
+        <sys_id>38885551db001010fec729e1ca96193e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-04-07 10:48:47</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>18881115db001010fec729e1ca961988</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="doctor logo.png" sys_id="38885551db001010fec729e1ca96193e">38885551db001010fec729e1ca96193e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 10:48:45</sys_created_on>
+        <sys_id>78885551db001010fec729e1ca96193e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5120</length>
+        <position>1</position>
+        <sys_attachment display_value="doctor logo.png" sys_id="38885551db001010fec729e1ca96193e">38885551db001010fec729e1ca96193e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 10:48:45</sys_created_on>
+        <sys_id>f8885551db001010fec729e1ca96193e</sys_id>
+    </sys_attachment_doc>
+</record_update>

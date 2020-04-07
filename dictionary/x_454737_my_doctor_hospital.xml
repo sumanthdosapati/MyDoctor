@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="hospital" max_length="40" name="x_454737_my_doctor_hospital" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Doctor" max_length="40" name="doctor" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hospitals" max_length="40" name="hospitals" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

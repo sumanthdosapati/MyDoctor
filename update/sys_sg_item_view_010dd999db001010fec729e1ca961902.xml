@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="My Doctor patient table">0d0dd999db001010fec729e1ca961901</data_item>
+        <dependency_fields>age,city,gender,name,number,phone</dependency_fields>
+        <item_view_json>{"Children":[{"Children":[{"Children":[{"Text":"","BackgroundColor":"#f1f1f1","CornerRadius":2,"CellId":"age","TextAlignment":"Center","MaxLines":1,"TextColor":"#293e40","Font":{"Weight":"semibold","Size":13},"Width":100,"Height":21,"studio_template_field_id":"E1","Type":"Text"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Children":[{"Text":"","CellId":"city","TextAlignment":"Right","MaxLines":1,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E2","Type":"Text"}],"Alignment":"Right","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Horizontal","Distribution":"Equal","Type":"ViewGroup"},{"Text":"","CellId":"gender","TextAlignment":"Left","MaxLines":2,"TextColor":"#293e40","Font":{"Weight":"regular","Size":18},"studio_template_field_id":"E3","Margin":{"Top":9},"Type":"Text"},{"Children":[{"Children":[{"Text":"Name","studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"number","Scaling":"Fill","Width":22,"Height":22,"studio_template_field_id":"E5","Margin":{"Right":6},"Type":"Image"},{"Text":"","CellId":"name","TextAlignment":"Left","MaxLines":1,"TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E4","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Children":[{"Text":"Phone","studio_template_is_label":true,"TextAlignment":"Left","MaxLines":1,"TextColor":"#7d8a8c","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","Margin":{"Right":8},"Type":"Text"},{"Text":"","CellId":"phone","TextAlignment":"Left","MaxLines":1,"TextColor":"#293e40","Font":{"Weight":"regular","Size":13},"studio_template_field_id":"E6","Type":"Text"}],"Alignment":"Center","Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Alignment":"Left","Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Alignment":"Stretch","Orientation":"Vertical","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>patient table List Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 11:08:25</sys_created_on>
+        <sys_id>010dd999db001010fec729e1ca961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>patient table List Screen Item View</sys_name>
+        <sys_package display_value="My Doctor" source="x_454737_my_doctor">18881115db001010fec729e1ca961988</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Doctor">18881115db001010fec729e1ca961988</sys_scope>
+        <sys_update_name>sys_sg_item_view_010dd999db001010fec729e1ca961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 11:08:25</sys_updated_on>
+        <table>x_454737_my_doctor_patient_table</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=010dd999db001010fec729e1ca961902"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-07 11:00:46</sys_created_on>
+        <sys_id>454bdd19db001010fec729e1ca96194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_454737_my_doctor_hospital.approver_user</sys_name>
+        <sys_package display_value="My Doctor" source="x_454737_my_doctor">18881115db001010fec729e1ca961988</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Doctor">18881115db001010fec729e1ca961988</sys_scope>
+        <sys_security_acl display_value="x_454737_my_doctor_hospital">8d4bdd19db001010fec729e1ca96194b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_454bdd19db001010fec729e1ca96194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-07 11:00:46</sys_updated_on>
+        <sys_user_role display_value="approver_user" name="approver_user">debab85bff02110053ccffffffffffb6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
